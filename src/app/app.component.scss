@@ -1,0 +1,45 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.action {
+  display: flex;
+  gap: 5px;
+}
+
+.footer {
+  background-color: #3F51B5; /* Choose a background color */
+  color: white; /* Text color */
+  padding: 10px; /* Padding for content inside the footer */
+  text-align: center; /* Center-align text */
+  position: fixed; /* Fixed position at the bottom of the page */
+  width: 100%; /* Full width */
+  bottom: 0; /* Stick to the bottom of the page */
+}
+
+.footer-content {
+  max-width: 1200px; /* Set a maximum width for the content */
+  margin: 0 auto; /* Center the content horizontally */
+  display: flex; /* Use flexbox layout */
+  align-items: center; /* Center items vertically */
+  justify-content: space-between; /* Space items evenly along the main axis */
+}
+
+.social-icons {
+  display: flex; /* Use flexbox layout for icons */
+}
+
+.icon {
+  margin-right: 10px; /* Add spacing between icons */
+  color: white; /* Set icon color */
+  font-size: 20px; /* Adjust icon size */
+}
