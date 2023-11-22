@@ -1,3 +1,13 @@
-
-
-![AP13](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/b467293e-c791-4f6a-9294-19cbfdc91784)
+![AP1](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/0071ffdc-02c2-4ce1-9da0-92d05da7a5e9)
+![AP2](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/b7355d69-1bda-45a7-a729-550ea2abc1fe)
+![AP3](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/77aed055-6147-4bcc-905b-b8b275ac8718)
+![AP4](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/72f1cf71-e27a-439f-8b4a-b519f81de793)
+![AP5](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/c4d0541e-ea06-4fdc-9456-28cb1fe5396d)
+![AP6](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/a0223b0a-cf03-40c7-a6ba-6e7be0806ec5)
+![AP7](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/24a8ea3f-6916-4054-9313-464910a17212)
+![AP8](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/cd86da18-81d2-4de9-933a-c0bae1071294)
+![AP9](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/86a2f486-8e5a-4274-8b17-7ef279495eac)
+![AP10](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/c83c58f9-c1f9-4ed0-b3fd-9ee033e59505)
+![AP11](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/f83ea73e-88b9-4e73-9e1f-ca7892e9d6a0)
+![AP12](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/a3b18dfc-a6ef-40ed-b171-02c816c9501b)
+![AP13](https://github.com/kjanuda/EmployeeManagementANG/assets/113584734/79e2f4b1-301c-46b4-90e8-1582bb3f6ed0)
